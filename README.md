@@ -1,5 +1,4 @@
 # commonclassroom is OP
 
-Sandesh more says that community is amazing.
-Sandesh made this change.
 
+Mayur Patil says learning Git and GitHub is interesting 
